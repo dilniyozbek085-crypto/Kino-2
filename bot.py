@@ -1,7 +1,8 @@
 import sqlite3
 import telebot
 
-TOKEN = "9056544226:AAGkVzzRWFjEhh8j_v3mEmW-dNvD0b0VSsk"
+TOKEN = "
+9056544226:AAGj07Bsn2aFCzQ4gOkPeyEMpx-FpBiVZO4"
 ADMIN_ID = (
     8657503976  # O'z Telegram ID raqamingizni yozing (faqat siz kino qo'shasiz)
 )
